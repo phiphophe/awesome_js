@@ -8,7 +8,7 @@
 - Ajax
   - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
   - https://github.com/axios/axios
-- NotIquery
+- NotJquery
   - http://youmightnotneedjquery.com/
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - Grid
